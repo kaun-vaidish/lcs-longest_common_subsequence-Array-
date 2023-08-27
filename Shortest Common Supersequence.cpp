@@ -12,8 +12,6 @@ would be abxycd which is of length 6 and
 has both the strings as its subsequences.
 */
 
-//{ Driver Code Starts
-//Initial template for C++
 
 #include<bits/stdc++.h>
 using namespace std;
